@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\error.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoneyMap</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoneyMap</BasePath>
+      <RelativePath>error.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>n86it99oma</Fingerprint>
+      <Integrity>6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\error.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotpass.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoneyMap</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoneyMap</BasePath>
+      <RelativePath>forgotpass.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zoi2ituni2</Fingerprint>
+      <Integrity>I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotpass.html'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\home.html'))">
       <SourceType>Package</SourceType>
       <SourceId>MoneyMap</SourceId>
@@ -12,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1bdifesq3x</Fingerprint>
-      <Integrity>I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE=</Integrity>
+      <Fingerprint>66jolflovd</Fingerprint>
+      <Integrity>8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\home.html'))</OriginalItemSpec>
@@ -30,29 +66,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5w6b3pczsq</Fingerprint>
-      <Integrity>pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0=</Integrity>
+      <Fingerprint>nfrf3utfjn</Fingerprint>
+      <Integrity>o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logins.mdf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.html'))">
       <SourceType>Package</SourceType>
       <SourceId>MoneyMap</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MoneyMap</BasePath>
-      <RelativePath>logins.mdf</RelativePath>
+      <RelativePath>main.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h2crfjc43q</Fingerprint>
-      <Integrity>Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4=</Integrity>
+      <Fingerprint>zib79zslyx</Fingerprint>
+      <Integrity>G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logins.mdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

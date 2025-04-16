@@ -1,3 +1,5 @@
+wwwroot\error.html
+wwwroot\forgotpass.html
 wwwroot\home.html
 wwwroot\login.html
-wwwroot\logins.mdf
+wwwroot\main.html

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g9RK9v23Zw2uCdbM4zg3J+A8qPnHMkLsuuiUC1mZxuQ=",
+  "Hash": "kCnAq1i+VpL2O/6TdBc9HJ9TmjaUgqqxuUV3WAWrEO0=",
   "Source": "MoneyMap",
   "BasePath": "_content/MoneyMap",
   "Mode": "Default",
@@ -10,17 +10,59 @@
     {
       "Name": "MoneyMap\\wwwroot",
       "Source": "MoneyMap",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\home.html",
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "BasePath": "_content/MoneyMap",
+      "RelativePath": "error#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n86it99oma",
+      "Integrity": "6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    },
+    {
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+      "SourceId": "MoneyMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "BasePath": "_content/MoneyMap",
+      "RelativePath": "forgotpass#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zoi2ituni2",
+      "Integrity": "I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\forgotpass.html"
+    },
+    {
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+      "SourceId": "MoneyMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -31,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1bdifesq3x",
-      "Integrity": "I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE=",
+      "Fingerprint": "66jolflovd",
+      "Integrity": "8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\home.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "login#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -52,19 +94,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5w6b3pczsq",
-      "Integrity": "pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0=",
+      "Fingerprint": "nfrf3utfjn",
+      "Integrity": "o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\logins.mdf",
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
-      "RelativePath": "logins#[.{fingerprint}]?.mdf",
+      "RelativePath": "main#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h2crfjc43q",
-      "Integrity": "Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4=",
+      "Fingerprint": "zib79zslyx",
+      "Integrity": "G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\logins.mdf"
+      "OriginalItemSpec": "wwwroot\\main.html"
     }
   ],
   "Endpoints": [
     {
-      "Route": "home.1bdifesq3x.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\home.html",
+      "Route": "error.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -92,7 +134,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "607"
+          "Value": "197"
         },
         {
           "Name": "Content-Type",
@@ -100,11 +142,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE=\""
+          "Value": "\"6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 15:45:45 GMT"
+          "Value": "Wed, 16 Apr 2025 22:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM="
+        }
+      ]
+    },
+    {
+      "Route": "error.n86it99oma.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -114,7 +193,134 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1bdifesq3x"
+          "Value": "n86it99oma"
+        },
+        {
+          "Name": "label",
+          "Value": "error.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6X4Q4K6VujeiA84qKu7blX1lTDtpmYqgG+4WTZv6hmM="
+        }
+      ]
+    },
+    {
+      "Route": "forgotpass.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4="
+        }
+      ]
+    },
+    {
+      "Route": "forgotpass.zoi2ituni2.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zoi2ituni2"
+        },
+        {
+          "Name": "label",
+          "Value": "forgotpass.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1EJtQxXjdk3DFeB3Dw5Xi/O/BxQ2dElbH6gAfR2vm4="
+        }
+      ]
+    },
+    {
+      "Route": "home.66jolflovd.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:49:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66jolflovd"
         },
         {
           "Name": "label",
@@ -122,13 +328,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE="
+          "Value": "sha256-8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo="
         }
       ]
     },
     {
       "Route": "home.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\home.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -137,7 +343,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "607"
+          "Value": "920"
         },
         {
           "Name": "Content-Type",
@@ -145,11 +351,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE=\""
+          "Value": "\"8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 15:45:45 GMT"
+          "Value": "Wed, 16 Apr 2025 22:49:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -159,13 +365,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I0V+tjEVYfujBOSh2TghnuJpZLrnMawZPQjZD5RzLJE="
+          "Value": "sha256-8mf/3jXekg+E4sqW/JlyarZX8/hgl5z7cGN4x7FSxSo="
         }
       ]
     },
     {
-      "Route": "login.5w6b3pczsq.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\login.html",
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -174,7 +380,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2113"
+          "Value": "2193"
         },
         {
           "Name": "Content-Type",
@@ -182,11 +388,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0=\""
+          "Value": "\"o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 16:19:50 GMT"
+          "Value": "Wed, 16 Apr 2025 22:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY="
+        }
+      ]
+    },
+    {
+      "Route": "login.nfrf3utfjn.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,7 +439,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w6b3pczsq"
+          "Value": "nfrf3utfjn"
         },
         {
           "Name": "label",
@@ -204,13 +447,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0="
+          "Value": "sha256-o+PwmyRVVEtfaAnKl64Dax7dk7Pwbr2nOBf//ScDDCY="
         }
       ]
     },
     {
-      "Route": "login.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\login.html",
+      "Route": "main.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -219,7 +462,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2113"
+          "Value": "768"
         },
         {
           "Name": "Content-Type",
@@ -227,11 +470,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0=\""
+          "Value": "\"G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 16:19:50 GMT"
+          "Value": "Wed, 16 Apr 2025 22:52:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -241,13 +484,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pV6KAT1xsL4t3ygNhJCLyJw7W8G7DI31wjFjL6j2TD0="
+          "Value": "sha256-G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI="
         }
       ]
     },
     {
-      "Route": "logins.h2crfjc43q.mdf",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\logins.mdf",
+      "Route": "main.zib79zslyx.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -256,19 +499,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76"
+          "Value": "768"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4=\""
+          "Value": "\"G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 16:02:57 GMT"
+          "Value": "Wed, 16 Apr 2025 22:52:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -278,52 +521,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h2crfjc43q"
+          "Value": "zib79zslyx"
         },
         {
           "Name": "label",
-          "Value": "logins.mdf"
+          "Value": "main.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4="
-        }
-      ]
-    },
-    {
-      "Route": "logins.mdf",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\logins.mdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 16:02:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jy9pYKXIR1LoHRgh+omHZDoHuDfKbGzWkn2MvTxGml4="
+          "Value": "sha256-G0uXy8t8XglYtamODYganRlgQVq1gOC16vxxcMvdloI="
         }
       ]
     }

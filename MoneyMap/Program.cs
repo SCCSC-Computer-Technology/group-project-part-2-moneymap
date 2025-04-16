@@ -14,7 +14,7 @@ app.UseHttpsRedirection();
 app.UseDefaultFiles(new DefaultFilesOptions
 {
     // home page
-    DefaultFileNames = new List<string> { "login.html" }
+    DefaultFileNames = new List<string> { "home.html" }
 });
 app.UseStaticFiles();
 

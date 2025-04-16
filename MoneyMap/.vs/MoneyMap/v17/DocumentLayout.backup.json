@@ -1,17 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\",
+  "WorkspaceRootPath": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive - spartanburg community college\\spring 2025\\adv programming\\moneymap\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\forgotpass.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\forgotpass.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive - spartanburg community college\\spring 2025\\adv programming\\moneymap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive - spartanburg community college\\spring 2025\\adv programming\\moneymap\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +58,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forgotpass.html",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+              "RelativeDocumentMoniker": "wwwroot\\forgotpass.html",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+              "RelativeToolTip": "wwwroot\\forgotpass.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T22:52:59.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "error.html",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+              "RelativeDocumentMoniker": "wwwroot\\error.html",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+              "RelativeToolTip": "wwwroot\\error.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T22:49:59.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html*",
+              "RelativeToolTip": "wwwroot\\login.html*",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T22:46:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+              "RelativeDocumentMoniker": "wwwroot\\home.html",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+              "RelativeToolTip": "wwwroot\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T22:42:19.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.html",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+              "RelativeDocumentMoniker": "wwwroot\\main.html",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+              "RelativeToolTip": "wwwroot\\main.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T22:42:16.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\UserController.cs",
               "RelativeDocumentMoniker": "UserController.cs",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\UserController.cs*",
-              "RelativeToolTip": "UserController.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA9wA8AAABRAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\UserController.cs",
+              "RelativeToolTip": "UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T16:34:15.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\Program.cs",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T16:30:28.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\Startup.cs",
+              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAABAwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T16:30:23.748Z",
               "EditorCaption": ""

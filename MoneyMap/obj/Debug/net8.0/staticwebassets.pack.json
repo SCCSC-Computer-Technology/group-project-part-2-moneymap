@@ -1,16 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\home.html",
+      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "PackagePath": "staticwebassets\\error.html"
+    },
+    {
+      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+      "PackagePath": "staticwebassets\\forgotpass.html"
+    },
+    {
+      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "PackagePath": "staticwebassets\\home.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\login.html",
+      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\wwwroot\\logins.mdf",
-      "PackagePath": "staticwebassets\\logins.mdf"
+      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoneyMap.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "odSP7ENTtDQ=",
+  "dgSpecHash": "CKc+P6j1g4A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\MoneyMap\\MoneyMap.csproj",
+  "projectFilePath": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\MoneyMap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kuwin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kuwin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

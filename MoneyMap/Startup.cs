@@ -22,7 +22,7 @@
         app.UseDefaultFiles(new DefaultFilesOptions
         {
             // default page when you run the program takes you to the database.
-            DefaultFileNames = new List<string> { "login.html" }
+            DefaultFileNames = new List<string> { "home.html" }
         });
         app.UseStaticFiles();
 
