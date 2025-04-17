@@ -21,11 +21,15 @@
         app.UseHttpsRedirection();
         app.UseDefaultFiles(new DefaultFilesOptions
         {
-            // default page when you run the program takes you to the database.
+            // default page when you run the program
             DefaultFileNames = new List<string> { "home.html" }
         });
         app.UseStaticFiles();
 
         app.UseRouting();
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+        });
     }
 }

@@ -1,5 +1,0 @@
-wwwroot\error.html
-wwwroot\forgotpass.html
-wwwroot\home.html
-wwwroot\login.html
-wwwroot\main.html

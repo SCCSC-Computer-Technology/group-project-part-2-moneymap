@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
+          crossorigin="anonymous">
+    <title>Login</title>
+</head>
+
+<body onload="alert('JS is running!')">
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="display-3">Login</h1>
+            <hr />
+        </div>
+
+        <div class="mb-3">
+            <label for="emaillabel" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="loginEmail" placeholder="name@example.com">
+        </div>
+
+        <div class="mb-3">
+            <label for="passlabel" class="form-label">Password</label>
+            <input type="password" id="loginPass" class="form-control" aria-describedby="passwordHelpBlock">
+            <div id="passwordHelpBlock" class="form-text">
+                Your password must be 5-15 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <button type="button" class="btn btn-outline-secondary" onclick="window.location.href='forgotPass.html'">Forgot Password</button>
+            <button type="button" class="btn btn-outline-success" onclick="validateAndRedirect()">Submit</button>
+        </div>
+    </div>
+    <script>
+        function validateAndRedirect() {
+            var email = document.getElementById("loginEmail").value;
+            var password = document.getElementById("loginPass").value;
+    
+            // username and password fill
+            if (email == "" || password == "") {
+                alert("Please fill in both fields.");
+                return;
+            }
+    
+            // put it in
+            var data = {
+                email: email,
+                password: password
+            };
+    
+            fetch('http://localhost:5025/api/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => {
+                if (!response.ok) {
+                    // non-200 response
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json(); // response must be json
+            })
+            .then(data => {
+                if (data.success) {
+                    // if success
+                    window.location.href = 'main.html';
+                } else {
+                    alert('Invalid username or password!');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while processing your request.');
+            });
+        }
+    </script>
+    
+</body>
+</html>
