@@ -9,7 +9,7 @@ namespace MoneyMap.Controllers
     public class LoginController : ControllerBase
     {
         [HttpPost]
-        public IActionResult Post([FromBody] LoginModel loginModel)
+        public IActionResult Post([FromBody] RegisterController.LoginModel loginModel)
         {
             try
             {
@@ -42,10 +42,36 @@ namespace MoneyMap.Controllers
             }
         }
     }
-
-    public class LoginModel
+    public class RegisterController : ControllerBase
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        private readonly string _connectionString;
+
+        public RegisterController(IConfiguration configuration)
+        {
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromForm] string email, [FromForm] string password)
+        {
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                string query = "INSERT INTO Users (Email, Password) VALUES (@Email, @Password)";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@Email", email);
+                cmd.Parameters.AddWithValue("@Password", password);
+
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                conn.Close();
+            }
+
+            return Ok("User registered.");
+        }
+        public class LoginModel
+        {
+            public string Email { get; set; }
+            public string Password { get; set; }
+        }
     }
 }

@@ -27,7 +27,7 @@ app.UseDefaultFiles(new DefaultFilesOptions
 app.UseStaticFiles();
 
 app.UseRouting();
-
+// this doesn't break anything so im just. leaving it 
 app.MapGet("/", () => "Hello World!");
 
 app.Run();

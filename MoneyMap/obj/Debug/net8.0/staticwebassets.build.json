@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ctcRItVJJkPhrFEYRg9tNxiIxkgzsq3yBJQjD8y7J1s=",
+  "Hash": "IGzpDGB88FgeJO4up42MpP10i6IwCnGad59CavCeQZk=",
   "Source": "MoneyMap",
   "BasePath": "_content/MoneyMap",
   "Mode": "Default",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "42tbx4bvyz",
-      "Integrity": "JNdhqTldtx6JngobGkTuvhYmKjgvDkiz2yYivy22N8k=",
+      "Fingerprint": "bglsp9sb23",
+      "Integrity": "m1jlzQ46wGlFTZS0OCcsbuw7Glhp9UL566I4rusI2pk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\home.html"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9g82rpt781",
-      "Integrity": "t9mrt8JVzqLQBUm1QHgo984GbPrrC4C82MSbjrSq3+k=",
+      "Fingerprint": "db8wdbx9al",
+      "Integrity": "54Q35YczVUuo5gs23awGuBZD0BdylUhcrT2Q0dTsPKc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\loginPage.html"
@@ -225,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\monthlyExpensesBreakdown.html"
+    },
+    {
+      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "SourceId": "MoneyMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "BasePath": "_content/MoneyMap",
+      "RelativePath": "registerPage#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6dwwsudaqq",
+      "Integrity": "JnD3FkLlRLL950OigItkyT7WVh84y1FivjvBhEYYljA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registerPage.html"
     },
     {
       "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
@@ -763,7 +784,7 @@
       ]
     },
     {
-      "Route": "home.42tbx4bvyz.html",
+      "Route": "home.bglsp9sb23.html",
       "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -773,7 +794,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "924"
+          "Value": "937"
         },
         {
           "Name": "Content-Type",
@@ -781,11 +802,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JNdhqTldtx6JngobGkTuvhYmKjgvDkiz2yYivy22N8k=\""
+          "Value": "\"m1jlzQ46wGlFTZS0OCcsbuw7Glhp9UL566I4rusI2pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 00:06:36 GMT"
+          "Value": "Sun, 20 Apr 2025 20:57:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -795,7 +816,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "42tbx4bvyz"
+          "Value": "bglsp9sb23"
         },
         {
           "Name": "label",
@@ -803,7 +824,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JNdhqTldtx6JngobGkTuvhYmKjgvDkiz2yYivy22N8k="
+          "Value": "sha256-m1jlzQ46wGlFTZS0OCcsbuw7Glhp9UL566I4rusI2pk="
         }
       ]
     },
@@ -818,7 +839,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "924"
+          "Value": "937"
         },
         {
           "Name": "Content-Type",
@@ -826,11 +847,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JNdhqTldtx6JngobGkTuvhYmKjgvDkiz2yYivy22N8k=\""
+          "Value": "\"m1jlzQ46wGlFTZS0OCcsbuw7Glhp9UL566I4rusI2pk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 00:06:36 GMT"
+          "Value": "Sun, 20 Apr 2025 20:57:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -840,12 +861,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JNdhqTldtx6JngobGkTuvhYmKjgvDkiz2yYivy22N8k="
+          "Value": "sha256-m1jlzQ46wGlFTZS0OCcsbuw7Glhp9UL566I4rusI2pk="
         }
       ]
     },
     {
-      "Route": "loginPage.9g82rpt781.html",
+      "Route": "loginPage.db8wdbx9al.html",
       "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -855,7 +876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3116"
+          "Value": "3198"
         },
         {
           "Name": "Content-Type",
@@ -863,11 +884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t9mrt8JVzqLQBUm1QHgo984GbPrrC4C82MSbjrSq3+k=\""
+          "Value": "\"54Q35YczVUuo5gs23awGuBZD0BdylUhcrT2Q0dTsPKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 00:06:43 GMT"
+          "Value": "Sun, 20 Apr 2025 21:39:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -877,7 +898,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9g82rpt781"
+          "Value": "db8wdbx9al"
         },
         {
           "Name": "label",
@@ -885,7 +906,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t9mrt8JVzqLQBUm1QHgo984GbPrrC4C82MSbjrSq3+k="
+          "Value": "sha256-54Q35YczVUuo5gs23awGuBZD0BdylUhcrT2Q0dTsPKc="
         }
       ]
     },
@@ -900,7 +921,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3116"
+          "Value": "3198"
         },
         {
           "Name": "Content-Type",
@@ -908,11 +929,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t9mrt8JVzqLQBUm1QHgo984GbPrrC4C82MSbjrSq3+k=\""
+          "Value": "\"54Q35YczVUuo5gs23awGuBZD0BdylUhcrT2Q0dTsPKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 00:06:43 GMT"
+          "Value": "Sun, 20 Apr 2025 21:39:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -922,7 +943,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t9mrt8JVzqLQBUm1QHgo984GbPrrC4C82MSbjrSq3+k="
+          "Value": "sha256-54Q35YczVUuo5gs23awGuBZD0BdylUhcrT2Q0dTsPKc="
         }
       ]
     },
@@ -1087,6 +1108,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg="
+        }
+      ]
+    },
+    {
+      "Route": "registerPage.6dwwsudaqq.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JnD3FkLlRLL950OigItkyT7WVh84y1FivjvBhEYYljA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 21:39:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dwwsudaqq"
+        },
+        {
+          "Name": "label",
+          "Value": "registerPage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JnD3FkLlRLL950OigItkyT7WVh84y1FivjvBhEYYljA="
+        }
+      ]
+    },
+    {
+      "Route": "registerPage.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JnD3FkLlRLL950OigItkyT7WVh84y1FivjvBhEYYljA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 21:39:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JnD3FkLlRLL950OigItkyT7WVh84y1FivjvBhEYYljA="
         }
       ]
     },
