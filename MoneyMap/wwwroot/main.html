@@ -1,20 +1,59 @@
-﻿<!DOCTYPE html>
+﻿<!--    Main Page: Current Finance month breakdown
+
+    Monthly budget allowance and current balance
+
+    Quick add option for purchase/withdraw
+
+    Quick add option for deposit
+
+    Quick list of monthly expenses/saving goals -->
+
+<!DOCTYPE html>
 <html>
-<head> <!-- this is the post-login homepage. after you log in, this is the page that can direct to other pages-->
+<head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- get bootstrap >-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css"
-          rel="stylesheet"
-          integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
-          crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Main</title>
+    <script>
+    async function loadFinances() { // this part doesnt work yet. needs functionality added.
+        const response = await fetch('/api/Finance');
+        const finances = await response.json();
+
+        const tableBody = document.getElementById('financeTableBody');
+        finances.forEach(finance => { // for each row in the array
+            const row = `
+                <tr>
+                    <td>${finance.finPurch}</td>
+                    <td>${finance.finWithd}</td>
+                    <td>${finance.finDep}</td>
+                    <td>${finance.finGoal}</td>
+                </tr>
+            `;
+            tableBody.innerHTML += row;
+        });
+    }
+
+        window.onload = loadFinances;
+    </script>
 </head>
 <body>
     <div class="container">
         <div class="jumbotron">
             <h1 class="display-3">Current Finance Month Breakdown</h1>
-            <hr/>
+            <hr />
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <!-- ah the cart (the table) /ref-->
+                        <th>Purchases</th>
+                        <th>Withdrawals</th>
+                        <th>Deposits</th>
+                        <th>Saving Goal<th>
+                    </tr>
+                </thead>
+                <tbody id="financeTableBody">
+                </tbody>
+            </table>
         </div>
     </div>
 </body>

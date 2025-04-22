@@ -176,10 +176,10 @@ C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\Mone
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoneyMap.props
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoneyMap.props
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\MoneyMap.csproj.Up2Date
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\MoneyMap.dll
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\refint\MoneyMap.dll
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\MoneyMap.pdb
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\MoneyMap.genruntimeconfig.cache
 C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\ref\MoneyMap.dll
+C:\Users\kuwin\OneDrive\Desktop\Group Project\group-project-part-2-moneymap\MoneyMap\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

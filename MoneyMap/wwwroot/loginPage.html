@@ -9,7 +9,31 @@
           crossorigin="anonymous">
     <title>Login</title>
 </head>
-
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="home.html">MoneyMap</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <li class="nav-item">
+                        <a class="nav-link" href="userSettings.html">User Settings</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="currentFinanceGrid.html">Current Finance Grid</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="debt.html">Debt</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="budgetPlan.html">Budget Plan</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="container">
         <div class="jumbotron">
             <h1 class="display-3">Login</h1>
@@ -35,51 +59,50 @@
             <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='home.html'">Back</button>
         </div>
     </div>
-    <script>
-        function validateAndRedirect() {
-            var email = document.getElementById("loginEmail").value;
-            var password = document.getElementById("loginPass").value;
-    
-            // username and password fill
-            if (email == "" || password == "") {
-                alert("Please fill in both fields.");
-                return;
-            }
-    
-            // put it in
-            var data = {
-                email: email,
-                password: password
-            };
-    
-            fetch('http://localhost:5025/api/login', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(data)
-            })
-            .then(response => {
-                if (!response.ok) {
-                    // non-200 response
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                return response.json(); // response must be json
-            })
-            .then(data => {
-                if (data.success) {
-                    // if success
-                    window.location.href = 'main.html';
-                } else {
-                    alert('Invalid username or password!');
-                }
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                alert('An error occurred while processing your request.');
-            });
-        }
-    </script>
-    
 </body>
 </html>
+<script>
+    function validateAndRedirect() {
+        var email = document.getElementById("loginEmail").value;
+        var password = document.getElementById("loginPass").value;
+
+        // username and password fill
+        if (email == "" || password == "") {
+            alert("Please fill in both fields.");
+            return;
+        }
+
+        // put it in
+        var data = {
+            email: email,
+            password: password
+        };
+
+        fetch('http://localhost:5025/api/login', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => {
+            if (!response.ok) {
+                // non-200 response
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json(); // response must be json
+        })
+        .then(data => {
+            if (data.success) {
+                // if success
+                window.location.href = 'main.html';
+            } else {
+                alert('Invalid username or password!');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('An error occurred while processing your request.');
+        });
+    }
+</script>
