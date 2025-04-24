@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\budgetplan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\budgetplan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\currentfinancegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\currentfinancegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,125 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "userSettings.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
-              "RelativeDocumentMoniker": "wwwroot\\userSettings.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
-              "RelativeToolTip": "wwwroot\\userSettings.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:20.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "spendingTips.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
-              "RelativeDocumentMoniker": "wwwroot\\spendingTips.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
-              "RelativeToolTip": "wwwroot\\spendingTips.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:16.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "registerPage.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
-              "RelativeDocumentMoniker": "wwwroot\\registerPage.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
-              "RelativeToolTip": "wwwroot\\registerPage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:15.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "monthlyExpensesBreakdown.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
-              "RelativeDocumentMoniker": "wwwroot\\monthlyExpensesBreakdown.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
-              "RelativeToolTip": "wwwroot\\monthlyExpensesBreakdown.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:11.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
-              "RelativeDocumentMoniker": "wwwroot\\main.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
-              "RelativeToolTip": "wwwroot\\main.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:09.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "loginPage.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
-              "RelativeDocumentMoniker": "wwwroot\\loginPage.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
-              "RelativeToolTip": "wwwroot\\loginPage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:48:04.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "generalNotes.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
-              "RelativeDocumentMoniker": "wwwroot\\generalNotes.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
-              "RelativeToolTip": "wwwroot\\generalNotes.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:47:58.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "budgetPlan.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
-              "RelativeDocumentMoniker": "wwwroot\\budgetPlan.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
-              "RelativeToolTip": "wwwroot\\budgetPlan.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:47:49.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "debt.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
-              "RelativeDocumentMoniker": "wwwroot\\debt.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
-              "RelativeToolTip": "wwwroot\\debt.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:47:15.794Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -187,28 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "currentFinanceGrid.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
-              "RelativeDocumentMoniker": "wwwroot\\currentFinanceGrid.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
-              "RelativeToolTip": "wwwroot\\currentFinanceGrid.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:46:46.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "home.html",
               "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
               "RelativeDocumentMoniker": "wwwroot\\home.html",
               "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
               "RelativeToolTip": "wwwroot\\home.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T17:36:41.769Z",
+              "WhenOpened": "2025-04-24T01:41:19.337Z",
               "EditorCaption": ""
             }
           ]
