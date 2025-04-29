@@ -8,6 +8,35 @@
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
     <title>Login</title>
+    <style>
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar.dark-mode {
+            background-color: #333;
+        }
+
+        /* Optional: Change other elements in dark mode */
+        .form-control.dark-mode {
+            background-color: #333;
+            color: white;
+        }
+
+        .btn-outline-secondary.dark-mode {
+            border-color: #888;
+            color: white;
+            background-color: #444;
+        }
+
+        .btn-outline-success.dark-mode {
+            border-color: #4CAF50;
+            color: white;
+            background-color: #333;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -67,50 +96,67 @@
             <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='home.html'">Back</button>
         </div>
     </div>
-</body>
-</html>
-<script>
-    function validateAndRedirect() {
-        var email = document.getElementById("loginEmail").value;
-        var password = document.getElementById("loginPass").value;
 
-        // username and password fill
-        if (email == "" || password == "") {
-            alert("Please fill in both fields.");
-            return;
-        }
-
-        // put it in
-        var data = {
-            email: email,
-            password: password
+    <script>
+        // Function to apply dark mode
+        window.onload = function () {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                const navbar = document.querySelector('.navbar');
+                if (navbar) {
+                    navbar.classList.add('dark-mode');
+                }
+                const formControls = document.querySelectorAll('.form-control');
+                formControls.forEach(control => control.classList.add('dark-mode'));
+                const buttons = document.querySelectorAll('.btn-outline-secondary, .btn-outline-success');
+                buttons.forEach(button => button.classList.add('dark-mode'));
+            }
         };
 
-        fetch('http://localhost:5025/api/login', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(data)
-        })
-        .then(response => {
-            if (!response.ok) {
-                // non-200 response
-                throw new Error(`HTTP error! status: ${response.status}`);
+        function validateAndRedirect() {
+            var email = document.getElementById("loginEmail").value;
+            var password = document.getElementById("loginPass").value;
+
+            // username and password fill
+            if (email == "" || password == "") {
+                alert("Please fill in both fields.");
+                return;
             }
-            return response.json(); // response must be json
-        })
-        .then(data => {
-            if (data.success) {
-                // if success
-                window.location.href = 'main.html';
-            } else {
-                alert('Invalid username or password!');
-            }
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('An error occurred while processing your request.');
-        });
-    }
-</script>
+
+            // put it in
+            var data = {
+                email: email,
+                password: password
+            };
+
+            fetch('http://localhost:5025/api/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        // non-200 response
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json(); // response must be json
+                })
+                .then(data => {
+                    if (data.success) {
+                        // if success
+                        window.location.href = 'main.html';
+                    } else {
+                        alert('Invalid username or password!');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('An error occurred while processing your request.');
+                });
+        }
+    </script>
+</body>
+</html>

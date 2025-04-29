@@ -1,49 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\",
+  "WorkspaceRootPath": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\forgotpass.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\forgotpass.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\forgotpass.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\kuwin\\onedrive\\desktop\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\debt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\currentfinancegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\currentfinancegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\registerpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\budgetplan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\budgetplan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\usersettings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\spendingtips.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\monthlyexpensesbreakdown.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\generalnotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|c:\\users\\branr\\source\\repos\\group project\\group-project-part-2-moneymap\\moneymap\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C89EFD3F-DB95-4F2D-A33A-3C57F72197D8}|MoneyMap.csproj|solutionrelative:wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,12 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -69,77 +81,184 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "debt.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
-              "RelativeDocumentMoniker": "wwwroot\\debt.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
-              "RelativeToolTip": "wwwroot\\debt.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T02:00:12.819Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "userSettings.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
-              "RelativeDocumentMoniker": "wwwroot\\userSettings.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
-              "RelativeToolTip": "wwwroot\\userSettings.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAywCwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:59:26.922Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "spendingTips.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
-              "RelativeDocumentMoniker": "wwwroot\\spendingTips.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
-              "RelativeToolTip": "wwwroot\\spendingTips.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAywCwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:59:21.902Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "registerPage.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
-              "RelativeDocumentMoniker": "wwwroot\\registerPage.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
-              "RelativeToolTip": "wwwroot\\registerPage.html",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:59:17.184Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+              "RelativeDocumentMoniker": "wwwroot\\home.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+              "RelativeToolTip": "wwwroot\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:58:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loginPage.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+              "RelativeDocumentMoniker": "wwwroot\\loginPage.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+              "RelativeToolTip": "wwwroot\\loginPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:59:00.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "monthlyExpensesBreakdown.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
               "RelativeDocumentMoniker": "wwwroot\\monthlyExpensesBreakdown.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
               "RelativeToolTip": "wwwroot\\monthlyExpensesBreakdown.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-24T01:59:12.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "debt.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
+              "RelativeDocumentMoniker": "wwwroot\\debt.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
+              "RelativeToolTip": "wwwroot\\debt.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T02:00:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forgotpass.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+              "RelativeDocumentMoniker": "wwwroot\\forgotpass.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+              "RelativeToolTip": "wwwroot\\forgotpass.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:58:45.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "currentFinanceGrid.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
+              "RelativeDocumentMoniker": "wwwroot\\currentFinanceGrid.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
+              "RelativeToolTip": "wwwroot\\currentFinanceGrid.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-29T01:23:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "budgetPlan.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+              "RelativeDocumentMoniker": "wwwroot\\budgetPlan.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+              "RelativeToolTip": "wwwroot\\budgetPlan.html",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-29T01:14:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registerPage.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+              "RelativeDocumentMoniker": "wwwroot\\registerPage.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+              "RelativeToolTip": "wwwroot\\registerPage.html",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:59:17.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "spendingTips.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+              "RelativeDocumentMoniker": "wwwroot\\spendingTips.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+              "RelativeToolTip": "wwwroot\\spendingTips.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:59:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userSettings.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+              "RelativeDocumentMoniker": "wwwroot\\userSettings.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+              "RelativeToolTip": "wwwroot\\userSettings.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-24T01:59:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
+              "RelativeDocumentMoniker": "wwwroot\\UsersDBContext.cs",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
+              "RelativeToolTip": "wwwroot\\UsersDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:38:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:30:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "main.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
               "RelativeDocumentMoniker": "wwwroot\\main.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
               "RelativeToolTip": "wwwroot\\main.html",
               "ViewState": "AgIAAC8AAAAAAAAAAAAwwEYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -148,37 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "loginPage.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
-              "RelativeDocumentMoniker": "wwwroot\\loginPage.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
-              "RelativeToolTip": "wwwroot\\loginPage.html",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:59:00.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "home.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
-              "RelativeDocumentMoniker": "wwwroot\\home.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
-              "RelativeToolTip": "wwwroot\\home.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAywDIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:58:55.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "generalNotes.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
               "RelativeDocumentMoniker": "wwwroot\\generalNotes.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
               "RelativeToolTip": "wwwroot\\generalNotes.html",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwDEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -187,26 +280,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "forgotPass.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
-              "RelativeDocumentMoniker": "wwwroot\\forgotPass.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
-              "RelativeToolTip": "wwwroot\\forgotPass.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-24T01:58:45.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "error.html",
-              "DocumentMoniker": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+              "DocumentMoniker": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
               "RelativeDocumentMoniker": "wwwroot\\error.html",
-              "ToolTip": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+              "ToolTip": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
               "RelativeToolTip": "wwwroot\\error.html",
-              "ViewState": "AgIAACgAAAAAAAAAAAAywD8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvz8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-24T01:58:30.485Z",
               "EditorCaption": ""

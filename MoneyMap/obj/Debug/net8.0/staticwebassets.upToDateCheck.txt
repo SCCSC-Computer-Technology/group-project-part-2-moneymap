@@ -2,7 +2,7 @@ wwwroot\budgetPlan.html
 wwwroot\currentFinanceGrid.html
 wwwroot\debt.html
 wwwroot\error.html
-wwwroot\forgotPass.html
+wwwroot\forgotpass.html
 wwwroot\generalNotes.html
 wwwroot\home.html
 wwwroot\loginPage.html
@@ -10,4 +10,5 @@ wwwroot\main.html
 wwwroot\monthlyExpensesBreakdown.html
 wwwroot\registerPage.html
 wwwroot\spendingTips.html
+wwwroot\UsersDBContext.cs
 wwwroot\userSettings.html

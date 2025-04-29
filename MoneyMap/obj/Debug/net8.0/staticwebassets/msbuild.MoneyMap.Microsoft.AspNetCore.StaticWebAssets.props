@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7i1d3doinr</Fingerprint>
-      <Integrity>33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=</Integrity>
+      <Fingerprint>w2r4h6ybvo</Fingerprint>
+      <Integrity>6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\budgetPlan.html'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7i1d3doinr</Fingerprint>
-      <Integrity>33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=</Integrity>
+      <Fingerprint>eaynyfdjx3</Fingerprint>
+      <Integrity>Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\currentFinanceGrid.html'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nxztzcxcdl</Fingerprint>
-      <Integrity>Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA=</Integrity>
+      <Fingerprint>3s15h54a2w</Fingerprint>
+      <Integrity>Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\debt.html'))</OriginalItemSpec>
@@ -66,29 +66,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dpk7u900w5</Fingerprint>
-      <Integrity>kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c=</Integrity>
+      <Fingerprint>039m04fovc</Fingerprint>
+      <Integrity>hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\error.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotPass.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotpass.html'))">
       <SourceType>Package</SourceType>
       <SourceId>MoneyMap</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MoneyMap</BasePath>
-      <RelativePath>forgotPass.html</RelativePath>
+      <RelativePath>forgotpass.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sytpydb2ya</Fingerprint>
-      <Integrity>DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg=</Integrity>
+      <Fingerprint>4ysdjxe8sa</Fingerprint>
+      <Integrity>zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotPass.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\forgotpass.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\generalNotes.html'))">
       <SourceType>Package</SourceType>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7i1d3doinr</Fingerprint>
-      <Integrity>33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=</Integrity>
+      <Fingerprint>98vjd1p90v</Fingerprint>
+      <Integrity>JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\generalNotes.html'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>t0uqfidh9d</Fingerprint>
-      <Integrity>g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI=</Integrity>
+      <Fingerprint>gsxusbjo1l</Fingerprint>
+      <Integrity>cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\home.html'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k6a7l0uh4j</Fingerprint>
-      <Integrity>tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938=</Integrity>
+      <Fingerprint>8hfqrlpxi1</Fingerprint>
+      <Integrity>3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\loginPage.html'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4bi5dg60vw</Fingerprint>
-      <Integrity>8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58=</Integrity>
+      <Fingerprint>1trjuub4sw</Fingerprint>
+      <Integrity>eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.html'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7i1d3doinr</Fingerprint>
-      <Integrity>33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=</Integrity>
+      <Fingerprint>gzzijjtfmr</Fingerprint>
+      <Integrity>VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\monthlyExpensesBreakdown.html'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4klsbwqbw6</Fingerprint>
-      <Integrity>JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs=</Integrity>
+      <Fingerprint>1jucv1sk8b</Fingerprint>
+      <Integrity>jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\registerPage.html'))</OriginalItemSpec>
@@ -210,11 +210,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>87zprw434f</Fingerprint>
-      <Integrity>dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc=</Integrity>
+      <Fingerprint>h3vtqo5d1j</Fingerprint>
+      <Integrity>U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\spendingTips.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UsersDBContext.cs'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoneyMap</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoneyMap</BasePath>
+      <RelativePath>UsersDBContext.cs</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6e1da86ihe</Fingerprint>
+      <Integrity>TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UsersDBContext.cs'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\userSettings.html'))">
       <SourceType>Package</SourceType>
@@ -228,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jg2myqvv5k</Fingerprint>
-      <Integrity>DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M=</Integrity>
+      <Fingerprint>bjlo06jik4</Fingerprint>
+      <Integrity>Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\userSettings.html'))</OriginalItemSpec>

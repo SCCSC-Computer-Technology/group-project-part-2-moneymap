@@ -9,6 +9,22 @@
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
     <title>Debt</title>
+
+    <style>
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar.dark-mode {
+            background-color: #333;
+        }
+
+        .nav-link.dark-mode {
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <!--This page should take the total from finances.mdf and check if there is a negative amount remaining after all
@@ -45,5 +61,24 @@
             </div>
         </div>
     </nav>
+
+    <div class="container mt-4">
+        <h2>Your Debt Overview</h2>
+        <p>Details about your remaining debts after deductions will appear here.</p>
+        <!-- Add content related to the debt overview below -->
+    </div>
+
+    <script>
+        // Apply dark mode on page load if enabled
+        window.onload = function() {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                document.querySelectorAll('.navbar').forEach(nav => nav.classList.add('dark-mode'));
+                document.querySelectorAll('.nav-link').forEach(link => link.classList.add('dark-mode'));
+            }
+        };
+    </script>
+
 </body>
 </html>

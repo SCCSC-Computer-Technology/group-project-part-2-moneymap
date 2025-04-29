@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,12 +8,29 @@
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
     <title>Password Reset</title>
+    <style>
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar.dark-mode {
+            background-color: #333;
+        }
+
+        .nav-link.dark-mode {
+            color: white;
+        }
+    </style>
 </head>
 <body>
+
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
             <a class="navbar-brand" href="home.html">MoneyMap</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarScroll">
@@ -42,10 +59,11 @@
             </div>
         </div>
     </nav>
-    <div class="container">
-        <form id="registerForm" method="post" action="/api/register">
-            <div class="jumbotron">
-                <h1 class="display-3">Password Reset</h1>
+
+    <div class="container mt-4">
+        <form id="resetForm" method="post" action="/api/reset-password">
+            <div class="jumbotron mb-4">
+                <h1 class="display-5">Password Reset</h1>
                 <hr />
             </div>
 
@@ -55,17 +73,17 @@
             </div>
 
             <div class="mb-3">
-                <label for="passInput" class="form-label">Password</label>
+                <label for="passInput" class="form-label">New Password</label>
                 <input type="password" id="passInput" name="password" class="form-control" aria-describedby="passwordHelpBlock1" required>
-                <div id="passwordInputHelp" class="form-text">
+                <div id="passwordHelpBlock1" class="form-text">
                     Your password must be 5-15 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
                 </div>
             </div>
 
             <div class="mb-3">
                 <label for="passCheckInput" class="form-label">Re-Enter Password</label>
-                <input type="password" id="passCheckInput" class="form-control" aria-describedby="passwordHelpBlock2">
-                <div id="passCheckHelp" class="form-text">
+                <input type="password" id="passCheckInput" class="form-control" aria-describedby="passwordHelpBlock2" required>
+                <div id="passwordHelpBlock2" class="form-text">
                     Make sure this matches the password you entered above.
                 </div>
             </div>
@@ -76,6 +94,7 @@
                     Automatically copy password to confirmation field
                 </label>
             </div>
+
             <div class="form-check mb-3">
                 <input class="form-check-input" type="checkbox" id="toggleVisibility">
                 <label class="form-check-label" for="toggleVisibility">
@@ -83,12 +102,13 @@
                 </label>
             </div>
 
-            <button type="submit" class="btn btn-primary btn-sm">Register</button>
-            <button type="button" class="btn btn-secondary btn-sm" id="generateBtn">Generate Random Password</button>
-            <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='home.html'">Back</button>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary btn-sm">Reset Password</button>
+                <button type="button" class="btn btn-secondary btn-sm" id="generateBtn">Generate Random Password</button>
+                <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='home.html'">Back</button>
+            </div>
         </form>
     </div>
-
 
     <script>
         const passInput = document.getElementById("passInput");
@@ -97,20 +117,20 @@
         const toggleVisibility = document.getElementById("toggleVisibility");
         const generateBtn = document.getElementById("generateBtn");
 
-        passInput.addEventListener("input", () => { // copy from 1st password box to 2nd
+        passInput.addEventListener("input", () => {
             if (toggleSync.checked) {
                 passCheckInput.value = passInput.value;
             }
         });
 
-        toggleVisibility.addEventListener("change", () => { // view password
+        toggleVisibility.addEventListener("change", () => {
             const type = toggleVisibility.checked ? "text" : "password";
             passInput.type = type;
             passCheckInput.type = type;
         });
 
-        function generateRandomPassword(length) { // password generator
-            const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
+        function generateRandomPassword(length) {
+            const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
             let password = "";
             for (let i = 0; i < length; i++) {
                 password += chars.charAt(Math.floor(Math.random() * chars.length));
@@ -118,13 +138,28 @@
             return password;
         }
 
-        generateBtn.addEventListener("click", () => { // actually generate and put in password
+        generateBtn.addEventListener("click", () => {
             const randomPass = generateRandomPassword(7);
             passInput.value = randomPass;
             if (toggleSync.checked) {
                 passCheckInput.value = randomPass;
             }
-        });</script>
+        });
+
+        // Apply dark mode on page load if enabled
+        window.onload = function () {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                document.querySelectorAll('.navbar').forEach(nav => nav.classList.add('dark-mode'));
+                document.querySelectorAll('.nav-link').forEach(link => link.classList.add('dark-mode'));
+            }
+        };
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-6B9iKefU3N1ZEXa3NYfeDlT7eMqzDw1xx7Blsrv63DXFyB9ywfh1z5b8FPC88D8i"
+            crossorigin="anonymous"></script>
 
 </body>
 </html>
