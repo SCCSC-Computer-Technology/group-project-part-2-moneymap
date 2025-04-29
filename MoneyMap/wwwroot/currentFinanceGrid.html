@@ -9,6 +9,22 @@
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
     <title>Current Finance Grid</title>
+
+    <style>
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar.dark-mode {
+            background-color: #333;
+        }
+
+        .nav-link.dark-mode {
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -43,5 +59,25 @@
             </div>
         </div>
     </nav>
+
+    <div class="container mt-4">
+        <!-- Placeholder for finance grid content -->
+        <h2>Current Finance Grid</h2>
+        <p>Details of your current finances will appear here.</p>
+        <!-- Add your finance grid content below -->
+    </div>
+
+    <script>
+        // Apply dark mode on page load if enabled
+        window.onload = function() {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                document.querySelectorAll('.navbar').forEach(nav => nav.classList.add('dark-mode'));
+                document.querySelectorAll('.nav-link').forEach(link => link.classList.add('dark-mode'));
+            }
+        };
+    </script>
+
 </body>
 </html>

@@ -1,95 +1,133 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- get bootstrap >-->
+    <title>User Settings</title>
+
+    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css"
           rel="stylesheet"
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
-    <title>User Settings</title>
+
+    <style>
+        body.dark-mode {
+            background-color: #121212;
+            color: #ffffff;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .dark-mode .navbar {
+            background-color: #1f1f1f;
+            transition: background-color 0.3s;
+        }
+
+        #userSetLbl {
+            margin-top: 25px;
+        }
+
+        #applyBtn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+    </style>
 </head>
+
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="home.html">MoneyMap</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
+
             <div class="collapse navbar-collapse" id="navbarScroll">
                 <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-                    <li class="nav-item">
-                        <a class="nav-link" href="userSettings.html">User Settings</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="currentFinanceGrid.html">Current Finance Grid</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="debt.html">Debt</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="budgetPlan.html">Budget Plan</a>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="userSettings.html">User Settings</a></li>
+                    <li class="nav-item"><a class="nav-link" href="currentFinanceGrid.html">Current Finance Grid</a></li>
+                    <li class="nav-item"><a class="nav-link" href="debt.html">Debt</a></li>
+                    <li class="nav-item"><a class="nav-link" href="budgetPlan.html">Budget Plan</a></li>
                 </ul>
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="loginPage.html" id="loginBtn">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="registerPage.html" id="regBtn0">Register</a>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="loginPage.html" id="loginBtn">Login</a></li>
+                    <li class="nav-item"><a class="nav-link" href="registerPage.html" id="regBtn0">Register</a></li>
                 </ul>
             </div>
         </div>
     </nav>
-        <div class="container">
-            <h2 id="userSetLbl">
-                User Settings
-            </h2>
-            <hr/ id="split">
-            <dl class="row">
-                <dt class="col-sm-3" id="dmLbl">Dark Mode</dt>
-                <dd class=" col-sm-9">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="checkDefault">
-                        <label class="form-check-label" for="checkDefault">
-                        </label>
-                    </div>
-                </dd>
-                <dt class=" col-sm-3" id="resLbl">Reset Password</dt>
-                <dd class=" col-sm-9">
-                    <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='forgotPass.html'" id="resetBtn">Reset Password</button>
-                </dd>
-            </dl>
+
+    <!-- Settings -->
+    <div class="container">
+        <h2 id="userSetLbl" class="mt-4">User Settings</h2>
+        <hr>
+
+        <!-- Dark Mode Setting -->
+        <div class="mb-4">
+            <h5>Dark Mode</h5>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="darkModeToggle">
+                <label class="form-check-label ms-2" for="darkModeToggle">Enable Dark Mode</label>
+            </div>
         </div>
-    </body>
-<style>
-    #userSetLbl
-    {
-        margin-top:25px;
-    }
-    #dmLbl
-    {
-        margin-top:25px;
-        width:200px;
-    }
-    #resLbl
-    {
-        margin-top:25px;
-        width:170px;
-    }
-    #checkDefault
-    {
-        margin-top:25px;
-    }
-    #resetBtn
-    {
-        margin-top:25px;
-    }
-    #split
-    {
-        margin-bottom:-9px;
-    }
-</style>
+
+        <!-- Reset Password Setting -->
+        <div class="mb-4">
+            <h5>Reset Password</h5>
+            <button type="button" class="btn btn-secondary btn-sm" onclick="window.location.href='forgotPass.html'" id="resetBtn">
+                Reset Password
+            </button>
+        </div>
+
+        <!-- Apply Settings Button -->
+        <button type="button" class="btn btn-primary" id="applyBtn" disabled>Apply Settings</button>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const applyBtn = document.getElementById('applyBtn');
+
+        // Load saved settings
+        window.onload = function () {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                darkModeToggle.checked = true;
+            }
+            applyBtn.disabled = true; // Button starts disabled
+        };
+
+        // Enable apply button when toggle changes
+        darkModeToggle.addEventListener('change', function () {
+            applyBtn.disabled = false;
+        });
+
+        // Apply settings
+        applyBtn.addEventListener('click', function () {
+            applyBtn.disabled = true;
+            applyBtn.innerHTML = `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Saving...`;
+
+            setTimeout(() => {
+                if (darkModeToggle.checked) {
+                    document.body.classList.add('dark-mode');
+                    localStorage.setItem('darkMode', 'enabled');
+                } else {
+                    document.body.classList.remove('dark-mode');
+                    localStorage.setItem('darkMode', 'disabled');
+                }
+
+                applyBtn.innerHTML = 'Apply Settings'; // Reset button text
+            }, 1000); // Fake a 1-second "save" time
+        });
+    </script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-Dc5Hqfa9uYl72V7vkUE3lD6ckIzD9lh1sG3JEB9rIu4wGbD8tEn0M2ET8X7iJLfE"
+            crossorigin="anonymous">
+    </script>
+</body>
 </html>

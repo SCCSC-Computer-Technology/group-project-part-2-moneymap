@@ -8,6 +8,37 @@
           integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
           crossorigin="anonymous">
     <title>Register</title>
+
+    <style>
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar.dark-mode {
+            background-color: #333;
+        }
+
+        .form-control.dark-mode {
+            background-color: #333;
+            color: white;
+        }
+
+        .btn-primary.dark-mode {
+            background-color: #444;
+            color: white;
+        }
+
+        .btn-secondary.dark-mode {
+            background-color: #555;
+            color: white;
+        }
+
+        .form-check-input.dark-mode {
+            background-color: #555;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -42,6 +73,7 @@
             </div>
         </div>
     </nav>
+
     <div class="container">
         <form id="registerForm" method="post" action="/api/register">
             <div class="jumbotron">
@@ -70,14 +102,6 @@
                 </div>
             </div>
 
-            <!--was made aware that this is. insecure. oh well. waste of time
-                if we want it added back in, its here
-                <div class="form-check mb-3">
-                <input class="form-check-input" type="checkbox" id="toggleSync">
-                <label class="form-check-label" for="toggleSync">
-                    Automatically copy password to confirmation field
-                </label>
-            </div>-->
             <div class="form-check mb-3">
                 <input class="form-check-input" type="checkbox" id="toggleVisibility">
                 <label class="form-check-label" for="toggleVisibility">
@@ -91,19 +115,11 @@
         </form>
     </div>
 
-
     <script>
         const passInput = document.getElementById("passInput");
         const passCheckInput = document.getElementById("passCheckInput");
-        //const toggleSync = document.getElementById("toggleSync");
         const toggleVisibility = document.getElementById("toggleVisibility");
         const generateBtn = document.getElementById("generateBtn");
-
-        /*passInput.addEventListener("input", () => { // copy from 1st password box to 2nd
-            if (toggleSync.checked) {
-                passCheckInput.value = passInput.value;
-            }
-        });*/
 
         toggleVisibility.addEventListener("change", () => { // view password
             const type = toggleVisibility.checked ? "text" : "password";
@@ -123,11 +139,21 @@
         generateBtn.addEventListener("click", () => { // actually generate and put in password
             const randomPass = generateRandomPassword(7);
             passInput.value = randomPass;
-            if (toggleSync.checked) {
+            if (toggleVisibility.checked) {
                 passCheckInput.value = randomPass;
             }
         });
-    </script>
 
+        // Apply dark mode on page load if enabled
+        window.onload = function () {
+            const darkModeSetting = localStorage.getItem('darkMode');
+            if (darkModeSetting === 'enabled') {
+                document.body.classList.add('dark-mode');
+                document.querySelectorAll('.navbar').forEach(nav => nav.classList.add('dark-mode'));
+                document.querySelectorAll('.form-control').forEach(input => input.classList.add('dark-mode'));
+                document.querySelectorAll('.btn').forEach(btn => btn.classList.add('dark-mode'));
+            }
+        };
+    </script>
 </body>
 </html>

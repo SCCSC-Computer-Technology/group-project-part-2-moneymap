@@ -1,55 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
+      "PackagePath": "staticwebassets\\UsersDBContext.cs"
+    },
+    {
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
       "PackagePath": "staticwebassets\\budgetPlan.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
       "PackagePath": "staticwebassets\\currentFinanceGrid.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
       "PackagePath": "staticwebassets\\debt.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
       "PackagePath": "staticwebassets\\error.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
-      "PackagePath": "staticwebassets\\forgotPass.html"
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
+      "PackagePath": "staticwebassets\\forgotpass.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
       "PackagePath": "staticwebassets\\generalNotes.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "PackagePath": "staticwebassets\\home.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
       "PackagePath": "staticwebassets\\loginPage.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "PackagePath": "staticwebassets\\main.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
       "PackagePath": "staticwebassets\\monthlyExpensesBreakdown.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
       "PackagePath": "staticwebassets\\registerPage.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
       "PackagePath": "staticwebassets\\spendingTips.html"
     },
     {
-      "Id": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "Id": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
       "PackagePath": "staticwebassets\\userSettings.html"
     },
     {

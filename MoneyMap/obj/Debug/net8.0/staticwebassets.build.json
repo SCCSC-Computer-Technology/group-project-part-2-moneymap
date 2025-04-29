@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5wtzJB7skYSJC3rKvKU4Fvnw/BMaWI5ICTQWtVp5Yn4=",
+  "Hash": "cPCYqEeo6JTBgXyD271bYu1/VoxJxRmoFfSfuoPHG+s=",
   "Source": "MoneyMap",
   "BasePath": "_content/MoneyMap",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MoneyMap\\wwwroot",
       "Source": "MoneyMap",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "budgetPlan#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7i1d3doinr",
-      "Integrity": "33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=",
+      "Fingerprint": "w2r4h6ybvo",
+      "Integrity": "6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\budgetPlan.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "currentFinanceGrid#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7i1d3doinr",
-      "Integrity": "33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=",
+      "Fingerprint": "eaynyfdjx3",
+      "Integrity": "Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\currentFinanceGrid.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "debt#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nxztzcxcdl",
-      "Integrity": "Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA=",
+      "Fingerprint": "3s15h54a2w",
+      "Integrity": "Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\debt.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "error#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -94,19 +94,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dpk7u900w5",
-      "Integrity": "kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c=",
+      "Fingerprint": "039m04fovc",
+      "Integrity": "hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\error.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
-      "RelativePath": "forgotPass#[.{fingerprint}]?.html",
+      "RelativePath": "forgotpass#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sytpydb2ya",
-      "Integrity": "DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg=",
+      "Fingerprint": "4ysdjxe8sa",
+      "Integrity": "zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\forgotPass.html"
+      "OriginalItemSpec": "wwwroot\\forgotpass.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "generalNotes#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -136,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7i1d3doinr",
-      "Integrity": "33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=",
+      "Fingerprint": "98vjd1p90v",
+      "Integrity": "JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\generalNotes.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -157,17 +157,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t0uqfidh9d",
-      "Integrity": "g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI=",
+      "Fingerprint": "gsxusbjo1l",
+      "Integrity": "cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\home.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "loginPage#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -178,17 +178,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k6a7l0uh4j",
-      "Integrity": "tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938=",
+      "Fingerprint": "8hfqrlpxi1",
+      "Integrity": "3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\loginPage.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "main#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -199,17 +199,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4bi5dg60vw",
-      "Integrity": "8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58=",
+      "Fingerprint": "1trjuub4sw",
+      "Integrity": "eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\main.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "monthlyExpensesBreakdown#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -220,17 +220,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7i1d3doinr",
-      "Integrity": "33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=",
+      "Fingerprint": "gzzijjtfmr",
+      "Integrity": "VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\monthlyExpensesBreakdown.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "registerPage#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -241,17 +241,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4klsbwqbw6",
-      "Integrity": "JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs=",
+      "Fingerprint": "1jucv1sk8b",
+      "Integrity": "jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\registerPage.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "spendingTips#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -262,17 +262,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "87zprw434f",
-      "Integrity": "dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc=",
+      "Fingerprint": "h3vtqo5d1j",
+      "Integrity": "U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\spendingTips.html"
     },
     {
-      "Identity": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
       "SourceId": "MoneyMap",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
+      "BasePath": "_content/MoneyMap",
+      "RelativePath": "UsersDBContext#[.{fingerprint}]?.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6e1da86ihe",
+      "Integrity": "TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UsersDBContext.cs"
+    },
+    {
+      "Identity": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "SourceId": "MoneyMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\",
       "BasePath": "_content/MoneyMap",
       "RelativePath": "userSettings#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -283,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jg2myqvv5k",
-      "Integrity": "DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M=",
+      "Fingerprint": "bjlo06jik4",
+      "Integrity": "Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\userSettings.html"
@@ -292,8 +313,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "budgetPlan.7i1d3doinr.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+      "Route": "budgetPlan.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -302,7 +323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "3628"
         },
         {
           "Name": "Content-Type",
@@ -310,11 +331,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:53 GMT"
+          "Value": "Tue, 29 Apr 2025 01:20:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo="
+        }
+      ]
+    },
+    {
+      "Route": "budgetPlan.w2r4h6ybvo.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 01:20:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -324,7 +382,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7i1d3doinr"
+          "Value": "w2r4h6ybvo"
         },
         {
           "Name": "label",
@@ -332,13 +390,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-6DTt58mej5D+veOwPwIGqRUaC8/oaXKlEAJcyUlAwZo="
         }
       ]
     },
     {
-      "Route": "budgetPlan.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\budgetPlan.html",
+      "Route": "currentFinanceGrid.eaynyfdjx3.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -347,7 +405,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "3338"
         },
         {
           "Name": "Content-Type",
@@ -355,48 +413,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
-        }
-      ]
-    },
-    {
-      "Route": "currentFinanceGrid.7i1d3doinr.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1801"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:45 GMT"
+          "Value": "Tue, 29 Apr 2025 01:24:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -406,7 +427,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7i1d3doinr"
+          "Value": "eaynyfdjx3"
         },
         {
           "Name": "label",
@@ -414,13 +435,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE="
         }
       ]
     },
     {
       "Route": "currentFinanceGrid.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\currentFinanceGrid.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -429,7 +450,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "3338"
         },
         {
           "Name": "Content-Type",
@@ -437,11 +458,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:45 GMT"
+          "Value": "Tue, 29 Apr 2025 01:24:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -451,13 +472,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-Vpu3Evoo2T0DWX69XdkiMaOWmRkpgENyo2UX+4MJeBE="
         }
       ]
     },
     {
-      "Route": "debt.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
+      "Route": "debt.3s15h54a2w.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -466,7 +487,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "3477"
         },
         {
           "Name": "Content-Type",
@@ -474,48 +495,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA=\""
+          "Value": "\"Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA="
-        }
-      ]
-    },
-    {
-      "Route": "debt.nxztzcxcdl.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1813"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:47:42 GMT"
+          "Value": "Tue, 29 Apr 2025 01:25:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -525,7 +509,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nxztzcxcdl"
+          "Value": "3s15h54a2w"
         },
         {
           "Name": "label",
@@ -533,13 +517,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Kx4D1suX+JoGsZt7RuEVdCNpLJsC65JYO/2bDothqSA="
+          "Value": "sha256-Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI="
         }
       ]
     },
     {
-      "Route": "error.dpk7u900w5.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "Route": "debt.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\debt.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -548,7 +532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2922"
+          "Value": "3477"
         },
         {
           "Name": "Content-Type",
@@ -556,11 +540,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c=\""
+          "Value": "\"Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:33:12 GMT"
+          "Value": "Tue, 29 Apr 2025 01:25:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qz2J5M7Hnhstch5kK93nAL3/jBhptRrlgSMDXQi27bI="
+        }
+      ]
+    },
+    {
+      "Route": "error.039m04fovc.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -570,7 +591,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpk7u900w5"
+          "Value": "039m04fovc"
         },
         {
           "Name": "label",
@@ -578,13 +599,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c="
+          "Value": "sha256-hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0="
         }
       ]
     },
     {
       "Route": "error.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\error.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -593,7 +614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2922"
+          "Value": "3333"
         },
         {
           "Name": "Content-Type",
@@ -601,11 +622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c=\""
+          "Value": "\"hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:33:12 GMT"
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -615,13 +636,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kQbKI2n7WxQcsrXlboeF+YNVK/HrlK0noTPOOeRQe/c="
+          "Value": "sha256-hKg+mo+XgMicetQkbVMIW0frS22Sa8FruunjZrtj+n0="
         }
       ]
     },
     {
-      "Route": "forgotPass.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
+      "Route": "forgotpass.4ysdjxe8sa.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -630,7 +651,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5621"
+          "Value": "7223"
         },
         {
           "Name": "Content-Type",
@@ -638,48 +659,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg=\""
+          "Value": "\"zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg="
-        }
-      ]
-    },
-    {
-      "Route": "forgotPass.sytpydb2ya.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotPass.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5621"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:18 GMT"
+          "Value": "Tue, 29 Apr 2025 01:31:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -689,21 +673,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sytpydb2ya"
+          "Value": "4ysdjxe8sa"
         },
         {
           "Name": "label",
-          "Value": "forgotPass.html"
+          "Value": "forgotpass.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DLZvFQWXOsOKL6kmzq+IjTMZJI1Du3Tybe9JqGJDaIg="
+          "Value": "sha256-zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg="
         }
       ]
     },
     {
-      "Route": "generalNotes.7i1d3doinr.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+      "Route": "forgotpass.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\forgotpass.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -712,7 +696,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "7223"
         },
         {
           "Name": "Content-Type",
@@ -720,11 +704,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:02 GMT"
+          "Value": "Tue, 29 Apr 2025 01:31:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zMr4fhHsVw9Xt/C6b72s23CHAKQFG3VvwAHL4GkQMkg="
+        }
+      ]
+    },
+    {
+      "Route": "generalNotes.98vjd1p90v.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -734,7 +755,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7i1d3doinr"
+          "Value": "98vjd1p90v"
         },
         {
           "Name": "label",
@@ -742,13 +763,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs="
         }
       ]
     },
     {
       "Route": "generalNotes.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\generalNotes.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -757,7 +778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "5623"
         },
         {
           "Name": "Content-Type",
@@ -765,11 +786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:02 GMT"
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -779,13 +800,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-JzrVy3kVzADq+bzNTNDdNvFC1kGfDRpFTCxk3cXR1vs="
         }
       ]
     },
     {
-      "Route": "home.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
+      "Route": "home.gsxusbjo1l.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -794,7 +815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5204"
+          "Value": "4712"
         },
         {
           "Name": "Content-Type",
@@ -802,48 +823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI=\""
+          "Value": "\"cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:46:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI="
-        }
-      ]
-    },
-    {
-      "Route": "home.t0uqfidh9d.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5204"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:46:23 GMT"
+          "Value": "Tue, 29 Apr 2025 01:34:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -853,7 +837,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0uqfidh9d"
+          "Value": "gsxusbjo1l"
         },
         {
           "Name": "label",
@@ -861,13 +845,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g95J/AGfn7ySGRqvQ0/OngCquITQaI1sGULm9I2iQTI="
+          "Value": "sha256-cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss="
         }
       ]
     },
     {
-      "Route": "loginPage.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+      "Route": "home.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -876,7 +860,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4322"
+          "Value": "4712"
         },
         {
           "Name": "Content-Type",
@@ -884,11 +868,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938=\""
+          "Value": "\"cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:18 GMT"
+          "Value": "Tue, 29 Apr 2025 01:34:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -898,13 +882,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938="
+          "Value": "sha256-cCGOUNTVHgylPNHUFBpm8GeqjY1YnFcAYUU2Ar+O2Ss="
         }
       ]
     },
     {
-      "Route": "loginPage.k6a7l0uh4j.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
+      "Route": "loginPage.8hfqrlpxi1.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -913,7 +897,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4322"
+          "Value": "6615"
         },
         {
           "Name": "Content-Type",
@@ -921,11 +905,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938=\""
+          "Value": "\"3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:18 GMT"
+          "Value": "Tue, 29 Apr 2025 01:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -935,7 +919,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k6a7l0uh4j"
+          "Value": "8hfqrlpxi1"
         },
         {
           "Name": "label",
@@ -943,13 +927,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tHv6HC7JIDDzpCsZeqbUcAPfVOKtaNTxzSvxcHEo938="
+          "Value": "sha256-3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40="
         }
       ]
     },
     {
-      "Route": "main.4bi5dg60vw.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "Route": "loginPage.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\loginPage.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -958,7 +942,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1901"
+          "Value": "6615"
         },
         {
           "Name": "Content-Type",
@@ -966,11 +950,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58=\""
+          "Value": "\"3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 16:48:33 GMT"
+          "Value": "Tue, 29 Apr 2025 01:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3A8LWZ/h6D4V9YOzGcA9PZl8+m76jmv/1v6QJ7osh40="
+        }
+      ]
+    },
+    {
+      "Route": "main.1trjuub4sw.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -980,7 +1001,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4bi5dg60vw"
+          "Value": "1trjuub4sw"
         },
         {
           "Name": "label",
@@ -988,13 +1009,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58="
+          "Value": "sha256-eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk="
         }
       ]
     },
     {
       "Route": "main.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\main.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1003,7 +1024,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1901"
+          "Value": "3657"
         },
         {
           "Name": "Content-Type",
@@ -1011,11 +1032,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58=\""
+          "Value": "\"eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 16:48:33 GMT"
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1025,13 +1046,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8LgE8RYoZ2kWjOSjeAKLPYyeQFRA+/gwjgpUMfizv58="
+          "Value": "sha256-eyZnTxG6PRvsA/26NGke5TOigosGAXljR/kvcCLlFSk="
         }
       ]
     },
     {
-      "Route": "monthlyExpensesBreakdown.7i1d3doinr.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+      "Route": "monthlyExpensesBreakdown.gzzijjtfmr.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1040,7 +1061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "2200"
         },
         {
           "Name": "Content-Type",
@@ -1048,11 +1069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:14 GMT"
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1062,7 +1083,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7i1d3doinr"
+          "Value": "gzzijjtfmr"
         },
         {
           "Name": "label",
@@ -1070,13 +1091,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8="
         }
       ]
     },
     {
       "Route": "monthlyExpensesBreakdown.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\monthlyExpensesBreakdown.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1085,7 +1106,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1801"
+          "Value": "2200"
         },
         {
           "Name": "Content-Type",
@@ -1093,11 +1114,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE=\""
+          "Value": "\"VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:14 GMT"
+          "Value": "Mon, 28 Apr 2025 22:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1107,13 +1128,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-33+tgp2kH1Rzi15G3pROijytRwscKjeM3dZD3k+jsqE="
+          "Value": "sha256-VMrk+Lsb4sHSPQpg5fbZCvDEMNWEEgDaJIWA8DUGOk8="
         }
       ]
     },
     {
-      "Route": "registerPage.4klsbwqbw6.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "Route": "registerPage.1jucv1sk8b.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1122,7 +1143,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5760"
+          "Value": "6831"
         },
         {
           "Name": "Content-Type",
@@ -1130,11 +1151,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs=\""
+          "Value": "\"jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:44 GMT"
+          "Value": "Tue, 29 Apr 2025 01:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1144,7 +1165,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4klsbwqbw6"
+          "Value": "1jucv1sk8b"
         },
         {
           "Name": "label",
@@ -1152,13 +1173,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs="
+          "Value": "sha256-jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg="
         }
       ]
     },
     {
       "Route": "registerPage.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\registerPage.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1167,7 +1188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5760"
+          "Value": "6831"
         },
         {
           "Name": "Content-Type",
@@ -1175,11 +1196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs=\""
+          "Value": "\"jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:32:44 GMT"
+          "Value": "Tue, 29 Apr 2025 01:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1189,13 +1210,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JCePkB0pgzQilYUdn3xAo6tLEmy0PTBEfiolf6GhOqs="
+          "Value": "sha256-jQglvlqDUuRgSLNsRGvBM6yvarvW2j/oOoHUtA4nttg="
         }
       ]
     },
     {
-      "Route": "spendingTips.87zprw434f.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+      "Route": "spendingTips.h3vtqo5d1j.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1204,7 +1225,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1914"
+          "Value": "2312"
         },
         {
           "Name": "Content-Type",
@@ -1212,11 +1233,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc=\""
+          "Value": "\"U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:19 GMT"
+          "Value": "Tue, 29 Apr 2025 01:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1226,7 +1247,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "87zprw434f"
+          "Value": "h3vtqo5d1j"
         },
         {
           "Name": "label",
@@ -1234,13 +1255,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc="
+          "Value": "sha256-U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I="
         }
       ]
     },
     {
       "Route": "spendingTips.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\spendingTips.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1249,7 +1270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1914"
+          "Value": "2312"
         },
         {
           "Name": "Content-Type",
@@ -1257,11 +1278,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc=\""
+          "Value": "\"U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:48:19 GMT"
+          "Value": "Tue, 29 Apr 2025 01:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1271,13 +1292,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dPlBf68i3OArWQCYCbQvj0hR/q/zEUUknFwZAjM+vfc="
+          "Value": "sha256-U3MPLih8d9abzReBI42bUNUcGCBwqNMmICHDhBRTr7I="
         }
       ]
     },
     {
-      "Route": "userSettings.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "Route": "UsersDBContext.6e1da86ihe.cs",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1286,56 +1307,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2749"
+          "Value": "404"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M=\""
+          "Value": "\"TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:31:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M="
-        }
-      ]
-    },
-    {
-      "Route": "userSettings.jg2myqvv5k.html",
-      "AssetFile": "C:\\Users\\kuwin\\OneDrive\\Desktop\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2749"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 17:31:39 GMT"
+          "Value": "Tue, 29 Apr 2025 01:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1345,7 +1329,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jg2myqvv5k"
+          "Value": "6e1da86ihe"
+        },
+        {
+          "Name": "label",
+          "Value": "UsersDBContext.cs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk="
+        }
+      ]
+    },
+    {
+      "Route": "UsersDBContext.cs",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\UsersDBContext.cs",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 01:03:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TpIScRclnj1NrJhV+0LK8Frc9mDuB5bt7UyDNG/ceNk="
+        }
+      ]
+    },
+    {
+      "Route": "userSettings.bjlo06jik4.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 23:13:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjlo06jik4"
         },
         {
           "Name": "label",
@@ -1353,7 +1419,44 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DZDy40eK18nq+xzjYUowKWfhQTjHouYWTzQuFQNBB2M="
+          "Value": "sha256-Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0="
+        }
+      ]
+    },
+    {
+      "Route": "userSettings.html",
+      "AssetFile": "C:\\Users\\branr\\source\\repos\\Group Project\\group-project-part-2-moneymap\\MoneyMap\\wwwroot\\userSettings.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 23:13:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwu0IkyCMmoaRZabxjkzC6rMOl+T6r0jcUG0g1CoTR0="
         }
       ]
     }
