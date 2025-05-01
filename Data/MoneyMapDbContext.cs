@@ -2,7 +2,7 @@
 //Budget Project
 
 using Microsoft.EntityFrameworkCore;
-using MoneyMap.Models;  // Ensure you use the correct namespace for your models
+using MoneyMap.Models;  
 
 namespace MoneyMap.Data
 {
